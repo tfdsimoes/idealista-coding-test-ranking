@@ -1,0 +1,12 @@
+application:
+  scores:
+    irrelevant: 40
+    no_picture: -10
+    hd_picture: 20
+    sd_picture: 10
+    with_description: 5
+    flat_small_description: 10 # flat description of 20 to 49 words
+    flat_big_description: 30 # flat description more of 50 words
+    house_big_description: 20 # house description more of 50 words
+    keyword_description: 5
+    full_add: 40
